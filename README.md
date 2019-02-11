@@ -6,6 +6,7 @@ This system uses encoder-decoder architecture where the encoder uses ResNet101 a
 
 ## Dataset
 Data was scraped from the website "memegenerator.net". Each image has 190-200 corresponding captions.
+![Dataset](imgs/data.png)
 
 ## Requirements
 1. Pytorch
