@@ -14,6 +14,7 @@ Data was scraped from the website "memegenerator.net". Each image has 190-200 co
 3. Pandas
 4. Matplotlib
 5. Pickle
+6. bs4
 
 ## Steps to execute
 1. To collect dataset first execute data_scraper.py. This will download the whole dataset and generate a captions.csv file containing  img_id and corresponding captions.
